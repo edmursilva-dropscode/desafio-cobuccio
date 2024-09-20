@@ -78,5 +78,5 @@ O projeto é composto pelos seguintes módulos principais:
 
 <br>
 <h1 align="center">
-    <img src="./Imagens/foto02.png">
+    <img src="./Imagens/foto03.png">
 </h1>
