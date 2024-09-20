@@ -1,4 +1,5 @@
-# Gerenciamento de Transações - XYZ Administradora de Cartões
+# Gerenciamento de Transações 
+  - XYZ Administradora de Cartões
 
 ## Descrição
 Este projeto foi desenvolvido como parte de um desafio técnico para a XYZ Administradora de Cartões de Crédito. Ele visa gerenciar transações de cartões de crédito de forma eficiente, utilizando uma aplicação em **VB6** e **SQL Server** para criar, editar, excluir e consultar transações. Além disso, inclui funcionalidades de geração de relatórios e cálculo de totais via stored procedures e funções no banco de dados.
