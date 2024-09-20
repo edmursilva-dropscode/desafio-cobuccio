@@ -65,6 +65,8 @@ O projeto é composto pelos seguintes módulos principais:
 - **Crie uma pasta no raiz C:\TesteVB6
 - **Descompacta os arquivos neste diretório
 - **Configura as Referências e Componentes do VB6
+- **Script da base de dados no diretório \BancoDeDados
+- **Relatorio no Excel no diretório \ArquivosExcel
 
 <br>
 <h1 align="center">
