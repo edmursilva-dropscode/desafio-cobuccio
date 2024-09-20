@@ -61,13 +61,22 @@ O projeto é composto pelos seguintes módulos principais:
 ### Relatório
 - Relatório exportado para Excel, com transações filtradas pelo último mês.
 
-## Requisitos de Avaliação
-- **Qualidade do Código**: Segui boas práticas de programação tanto no VB6 quanto nas queries SQL.
-- **Eficiência**: As queries SQL foram otimizadas para lidar com grandes volumes de dados.
-- **Interface Simples e Funcional**: A interface da aplicação é clara e de fácil uso, permitindo o gerenciamento de transações de forma eficiente.
-- **Relatórios Excel**: Correta exportação e formatação dos dados para arquivo Excel.
+## Para teste do desafio
+- **Crie uma pasta no raiz C:\TesteVB6
+- **Descompacta os arquivos neste diretório
+- **Configura as Referências e Componentes do VB6
 
-## Conclusão
-Este projeto entrega uma solução completa para o gerenciamento de transações financeiras, com funcionalidades robustas e integração eficiente com o SQL Server, além de permitir exportação de relatórios em Excel.
+<br>
+<h1 align="center">
+    <img src="./imagens/foto01.png">
+</h1>
 
+<br>
+<h1 align="center">
+    <img src="./imagens/foto02.png">
+</h1>
 
+<br>
+<h1 align="center">
+    <img src="./imagens/foto02.png">
+</h1>
