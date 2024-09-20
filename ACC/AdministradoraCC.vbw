@@ -1,0 +1,16 @@
+frmMain = 52, 52, 1187, 624, , 26, 26, 711, 390, C
+modFuncoes = 52, 52, 1187, 624, 
+clsConexao = 78, 78, 1213, 650, 
+frmSplash = 156, 156, 1291, 728, , 130, 130, 1265, 702, C
+clsSystem = 182, 182, 1317, 754, 
+frmListaClientes = 130, 130, 1265, 702, , 104, 104, 1239, 676, C
+clsClientesNegocios = 156, 156, 1291, 728, 
+clsClientesDados = 182, 182, 1317, 754, 
+frmCliente = 26, 26, 1161, 598, Z, 0, 0, 1135, 572, C
+clsTransacaoNegocios = 0, 0, 1187, 493, 
+clsTransacaoDados = 208, 208, 1395, 701, 
+frmTransacao = 0, 0, 1161, 496, , 234, 234, 1395, 730, C
+frmFindLista = 182, 182, 1343, 678, , 156, 156, 1317, 652, C
+frmTeste = 78, 78, 1239, 574, , 52, 52, 1213, 548, C
+clsEstatisticaNegocios = 130, 130, 1391, 600, 
+clsEstatisticaDados = 156, 156, 1417, 626, 
